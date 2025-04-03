@@ -885,7 +885,7 @@ for(int i=0;i<n;i++){
     printf("%d ",arr[i]);
 }
 }*/
-#include <stdio.h>
+/*#include <stdio.h>
 #include <string.h>
 
 void sortNames(char names[][50], int n) {
@@ -899,7 +899,7 @@ void sortNames(char names[][50], int n) {
             }
         }
     }
-}
+}*/
 
 /*int main() {
     int n;
